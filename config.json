@@ -1,0 +1,1 @@
+{"exit_shortcut": "Esc", "program_start_time": 5, "input_interval": 0.1, "mouseClick_interval": 0.1, "scroll_constant_interval": 0.3, "scroll_constant_times": 2, "scroll_random_down_probability": 0.2, "scroll_random_slide_times": [3, 6], "scroll_random_slide_interval": [0.05, 0.2], "scroll_random_interval": [4, 8]}
